@@ -1,0 +1,11 @@
+{
+  "name": "goBarber-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/WilliamPhilippe/goBarber-backend.git",
+  "author": "William Philippe <wplb@ic.ufal.br>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
