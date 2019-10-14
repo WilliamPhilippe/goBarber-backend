@@ -11,6 +11,6 @@ Os bancos de dados usados foram o Postgres, para armazenamento comuns de dados. 
 
 Para cada um dos bancos de dados foram usados containers do Docker, para isolamento dos sistemas.
 
-A lib JWD web-token foi usada para autenticação de sessões.
+A lib JWT (javascript web token) foi usada para autenticação de sessões.
 
 O Sentry foi usada para testes e log de erros em desenvolvimento e produção.
